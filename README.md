@@ -11,11 +11,11 @@
 
 # info
 
-I will make an application about minecraft (maybe)
+I will create an application called **cable** (make minecraft addons) [coming soon]
 
 # Discord server
 
-Please invite [server Discord](https://discord.gg/DmqkCswgVy) (NEW)
+Please invite server [Cable Discord](https://discord.gg/JxqDHZS5yG) (NEW)
 
 
 
