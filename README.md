@@ -15,7 +15,7 @@ I will make an application about minecraft (maybe)
 
 # Discord server
 
-Please invite [server Discord](https://discord.gg/DmqkCswgVy) (still under construction)
+Please invite [server Discord](https://discord.gg/DmqkCswgVy) (NEW)
 
 
 
