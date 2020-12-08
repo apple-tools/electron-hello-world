@@ -1,4 +1,4 @@
-# electron template for the needy
+# electron template 
 
 ## how to get started
 
